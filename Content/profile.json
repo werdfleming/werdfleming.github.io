@@ -25,14 +25,14 @@
 },
 "Project1": {
     "Title": "Personal Weather Probe",
-    "Desc": "For my Junior Design project, I made a water weather probe that autonomously collected water temperature at various depths. ",
+    "Desc": "For my Junior Design project, I built an autonomous water weather probe that measured temperature at multiple depths. I designed the system to lower a sensor into the water, record readings at each level, and log the data for later analysis. The project required mechanical design, sensor integration, and microcontroller programming, and it gave me experience creating a device that could operate reliably on its own in real conditions. ",
     "GitHubRepo": "",
     "MainImage": "PWP main picture.png",
     "DetailImages": ["PWP electrical.png","PWP electircal in box.png","PWP open top.png"]
   },
   "Project2": {
     "Title": "Laser Tag Blasters",
-    "Desc": "I designed laser tag blasters for my microcontroller class. They used a Raspberry Pico Pi and infared lasers to shoot. They had a safety system and a speaker that buzzed when you shot someone or got shot.",
+    "Desc": "For my microcontroller class, I designed and built a pair of laser tag blasters using a Raspberry Pi Pico as the main controller. Each blaster fired an infrared signal and included a safety system to prevent accidental firing during startup. I programmed the devices to detect hits and added a small speaker that buzzed when you shot another player or when you were hit. The project pulled together coding, circuit design, and troubleshooting, and it ended up being a fun and fully working system.",
     "GitHubRepo": "",
     "MainImage": "LTmain.png",
     "DetailImages": ["LT disp.png","laser infared.png"]
