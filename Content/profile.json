@@ -20,7 +20,7 @@
   "EducationText": "Use this to add some narrative to your education section",
   "Employment": "Seattle Pacific University",
   "Role": "Resident Advisor",
-  "Skills": ["C++", " Matlab", " Multisim", " Autocad","],
+  "Skills": ["C++", " Matlab", " Multisim", " Autocad"],
   "Resume": "Andrew Fleming (1).pdf"  
 },
 "Project1": {
