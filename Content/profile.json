@@ -1,10 +1,10 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Drew Fleming",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Andrew Fleming. I am an electrical engineering student at Seattle Pacific University with a growing passion for software and hardware working together. I like digging into projects where I can actually build something that works, whether that is a control system, a microgrid idea, or a piece of code that solves a problem I have been wrestling with. I enjoy learning new tools and figuring things out as I go. Most of my best work has come from collaborating with classmates and bouncing ideas around until something clicks. Outside of class I usually end up working on side projects or helping friends with their own builds because I like seeing how different people approach problems. I care a lot about growing my skills and staying curious, and I try to take every chance I get to learn something new."
 },
 "Contact": {
   "EMail": "zendejor@spu.edu",
