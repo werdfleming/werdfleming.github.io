@@ -24,8 +24,8 @@
   "Resume": "Andrew Fleming (1).pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "Laser Tag Blasters",
+    "Desc": "I designed laser tag blasters for my microcontroller class. They used a Raspberry Pico Pi and infared lasers to shoot. They had a safety system and a speaker that buzzed when you shot someone or got shot.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
