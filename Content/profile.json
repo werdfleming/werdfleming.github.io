@@ -35,14 +35,14 @@
     "Desc": "I designed laser tag blasters for my microcontroller class. They used a Raspberry Pico Pi and infared lasers to shoot. They had a safety system and a speaker that buzzed when you shot someone or got shot.",
     "GitHubRepo": "",
     "MainImage": "LTmain.png",
-    "DetailImages": ["LT disp.png","laser infared.png","P2Detail3.png","P2Detail4.png"]
+    "DetailImages": ["LT disp.png","laser infared.png"]
   },
   "Project3": {
     "Title": "PCB Design",
     "Desc": "I designed and built a custom PCB for a dual adjustable power supply, handling the full schematic and board layout in Altium. I chose the components, routed the power and control sections, and refined the layout for safe and stable voltage regulation. After fabrication, I assembled and soldered the entire board, producing a reliable custom power system.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
+    "MainImage": "PCB main.png",
+    "DetailImages": ["PCB breadboard.png","PCB multisim.png","PCB layout"]
   },
   "Project4": {
     "Title": "",
