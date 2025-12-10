@@ -25,17 +25,17 @@
 },
 "Project1": {
     "Title": "Laser Tag Blasters",
-    "Desc": "I designed laser tag blasters for my microcontroller class. They used a Raspberry Pico Pi and infared lasers to shoot. They had a safety system and a speaker that buzzed when you shot someone or got shot.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "PWP main picture.png",
-    "DetailImages": ["PWP electrical.png","PWP electircal in box.png","P1Detail3.png"]
-  },
-  "Project2": {
-    "Title": "Weather Probe",
     "Desc": "For my Junior Design project, I made a water weather probe that autonomously collected water temperature at various depths. ",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "MainImage": "PWP main picture.png",
+    "DetailImages": ["PWP electrical.png","PWP electircal in box.png","PWP open top.png"]
+  },
+  "Project2": {
+    "Title": "Laser Tag Blasters",
+    "Desc": "I designed laser tag blasters for my microcontroller class. They used a Raspberry Pico Pi and infared lasers to shoot. They had a safety system and a speaker that buzzed when you shot someone or got shot.",
+    "GitHubRepo": "https://github.com",
+    "MainImage": "LTmain.png",
+    "DetailImages": ["LT disp.png","laser infared.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Interesting Project 3",
