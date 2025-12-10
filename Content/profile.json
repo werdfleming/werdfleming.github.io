@@ -24,7 +24,7 @@
   "Resume": "Andrew Fleming (1).pdf"  
 },
 "Project1": {
-    "Title": "Laser Tag Blasters",
+    "Title": "Personal Weather Probe",
     "Desc": "For my Junior Design project, I made a water weather probe that autonomously collected water temperature at various depths. ",
     "GitHubRepo": "https://github.com",
     "MainImage": "PWP main picture.png",
