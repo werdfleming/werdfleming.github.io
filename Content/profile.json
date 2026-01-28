@@ -25,7 +25,7 @@
 },
 "Project1": {
     "Title": "Personal Weather Probe",
-    "Desc": "For my Junior Design project, I built an autonomous water weather probe that measured temperature at multiple depths. I designed the system to lower a sensor into the water, record readings at each level, and log the data for later analysis. The project required mechanical design, sensor integration, and microcontroller programming, and it gave me experience creating a device that could operate reliably on its own in real conditions. ",
+    "Desc": "For my Junior Design project, I designed and built an autonomous water weather probe using a Raspberry Pi Pico as the main controller to collect temperature data at multiple depths in real environmental conditions. The system used two motor driven mechanisms, one to deploy a permanent anchor that held the device in place and a second to lower and raise a temperature sensor probe up to 15 feet, while the Pico coordinated motor control, sensor readings, and data logging to an SD card. The probe was powered by a 12 V battery supported by solar panels that could either recharge the battery or supply power directly depending on system demand, and a major challenge was designing the electronics and wiring to be fully waterproof while remaining reliable and serviceable, which ultimately gave me valuable experience in autonomous system design, embedded control, and environmental engineering.",
     "GitHubRepo": "",
     "MainImage": "PWP main picture.png",
     "DetailImages": ["PWP electrical.png","PWP electircal in box.png","PWP open top.png"]
