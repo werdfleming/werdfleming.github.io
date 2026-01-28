@@ -39,7 +39,7 @@
   },
   "Project3": {
     "Title": "PCB Design",
-    "Desc": "I designed and built a custom PCB for a dual adjustable power supply, handling the full schematic and board layout in Altium. I chose the components, routed the power and control sections, and refined the layout for safe and stable voltage regulation. After fabrication, I assembled and soldered the entire board, producing a reliable custom power system.",
+    "Desc": "I designed and built a custom dual adjustable linear power supply as a lab tool, taking the project from concept through fabrication and testing. The supply provides fixed outputs of 5 V, ±12 V, and ±30 V, along with a fully adjustable output ranging from 3–30 V, allowing it to support a wide range of bench and prototyping needs. The design process was intentionally end-to-end. I began by modeling the full circuit in Multisim, then validated the design on a breadboard to confirm voltage regulation and stability before committing to a PCB. I created the complete schematic and board layout in Altium, selected all components, and carefully routed both the power and control sections with attention to safe voltage spacing and linear regulation stability. After fabrication, I assembled and soldered the entire board by hand and verified correct operation across all output rails. This project gave me hands-on experience translating a theoretical design into a reliable physical system and reinforced the importance of iteration, testing, and layout decisions in power electronics.",
     "GitHubRepo": "",
     "MainImage": "PCB main.png",
     "DetailImages": ["PCB breadboard.png","PCB multisim.png","PCB layout"]
